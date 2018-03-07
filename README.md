@@ -4,7 +4,7 @@
 # ["CSS"](Assets/CSS/style.css)
 # ["JS"](Assets/Javascript/api.js)
 ## Instructions
-#Click on actor names to see 10 of their gifs.
-#Add an actor to the list by typing there name into the form.
-#Click submit and a button will appear with for the actor you added.
-#Have fun!
+Click on the actor names to see some of their gifs!
+Add an actor to the list by typing their name into the form.
+Click submit and a button will appear for the actor you added.
+Have fun!
