@@ -1,6 +1,8 @@
 # Giphy
 ## Files
-# ["Giphy"](index.html/Assets/CSS/style.css..//Assets/Javascript/api.js..//Assets/Images/background6.jpeg)
+# ["HTML"](index.html)
+# ["CSS"](Assets/CSS/style.css)
+# ["JS"](Assets/Javascript/api.js)
 ## Instructions
 #Click on actor names to see 10 of their gifs.
 #Add an actor to the list by typing there name into the form.
