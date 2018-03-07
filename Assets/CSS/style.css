@@ -1,11 +1,11 @@
 
 body {
 	font-family: 'Limelight', cursive;
-	background-image: url(../images/background6.jpeg);
-	background-attachment: local
+	background-image: url(../images/background6.jpg);
+	background-attachment: local;
 	background-size: cover;
-	background-repeat: no-repeat;
-	height: 100vh;
+
+	
 }
 #form {
 	float: right;
