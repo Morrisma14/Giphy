@@ -1,6 +1,6 @@
 # GifTastic
 
-`GIPHY API used to make a dynamic web page that populates with gifs of actors`
+`GIPHY API used to make a dynamic web page that populates with gifs of actors.`
 
 ## How to Use
 - Click on an actors name to see some of their gifs!
