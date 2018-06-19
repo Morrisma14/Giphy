@@ -1,5 +1,6 @@
-# Giphy
-## Files
+# GifTastic
+
+## How to Use
 # ["HTML"](index.html)
 # ["CSS"](Assets/CSS/style.css)
 # ["JS"](Assets/Javascript/api.js)
